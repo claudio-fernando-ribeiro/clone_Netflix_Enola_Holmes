@@ -11,3 +11,5 @@ A página é responsiva, inclusive a de vídeo.
 
 É a primeira vez que faço um clone, e consegui aprender algumas lições bacanas. Espero que gostem.
 Em breve tem mais. 
+
+![page pronta](/netflix-landing/assets/WhatsApp%20Image%202022-10-02%20at%2013.56.33.jpeg)
